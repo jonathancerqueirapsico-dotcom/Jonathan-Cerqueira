@@ -1,0 +1,21 @@
+{
+  "recovered_at": "2026-08-03T22:56:00-03:00",
+  "source_domain": "https://jonathancerqueira.com.br/",
+  "status": "homepage recovered; production untouched",
+  "repository": "jonathancerqueirapsico-dotcom/Jonathan-Cerqueira",
+  "files": [
+    "index.html",
+    "styles.css",
+    "app.js",
+    "README.md"
+  ],
+  "preserved_archive": "/Sites/jonathan-cerqueira-site-recuperado.zip",
+  "archive_contents": [
+    "editable homepage with embedded images",
+    "original rendered homepage HTML",
+    "visual reference screenshot",
+    "editable CSS and JavaScript"
+  ],
+  "known_limitation": "internal routes still point to the current public website until each route is captured separately",
+  "deployment": "none"
+}
